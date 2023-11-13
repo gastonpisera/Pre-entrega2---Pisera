@@ -1,0 +1,47 @@
+[
+    {
+        "id":1,
+        "nombre":"185/65 / R14 / 86H",
+        "precio":100,
+        "img":"/img/producto1.jpg",
+        "descripcion":"Cubierta todo-terreno - Firestone",
+        "stock":1,
+        "categoria":"Firestone"
+    },
+    {
+        "id":2,
+        "nombre":"185/65 / R15 / 88H",
+        "precio":90,
+        "img":"/img/producto2.jpg",
+        "descripcion":"Cubierta para velocidad - Bridgestone",
+        "stock":10,
+        "categoria":"Bridgestone"
+    },
+    {
+        "id":3,
+        "nombre":"175/70 / R14 / 84T x2",
+        "precio":140,
+        "img":"/img/producto3.jpg",
+        "descripcion":"Par de cubiertas todo-terreno - Bridgestone",
+        "stock":5,
+        "categoria":"Firestone"
+    },
+    {
+        "id":4,
+        "nombre":"185/65 / R14 x2",
+        "precio":150,
+        "img":"/img/producto4.jpg",
+        "descripcion":"Par de cubiertas para velocidad - Firestone",
+        "stock":20,
+        "categoria":"Firestone"
+    },
+    {
+        "id":5,
+        "nombre":"195/65 R15 / 91H x2",
+        "precio":1000,
+        "img":"/img/producto5.jpg",
+        "descripcion":"Par de cubiertas para velocidad - Bridgestone",
+        "stock":6,
+        "categoria":"Bridgestone"
+    }
+]
